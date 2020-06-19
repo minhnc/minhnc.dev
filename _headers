@@ -100,52 +100,6 @@
   Link: </component---src-templates-not-found-template-js-94ad5a8ab9b3ed861a02.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/the-origins-of-social-stationery-lettering
-  Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </app-aab4cd9a6c0936464999.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </9f51d0540ff428d377f06ef4930cdc7caed260db-578963580b0d75d3e861.js>; rel=preload; as=script
-  Link: </d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/perfecting-the-art-of-perfection
-  Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </app-aab4cd9a6c0936464999.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </9f51d0540ff428d377f06ef4930cdc7caed260db-578963580b0d75d3e861.js>; rel=preload; as=script
-  Link: </d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
-/pages/about/
-  Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </app-aab4cd9a6c0936464999.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </9f51d0540ff428d377f06ef4930cdc7caed260db-578963580b0d75d3e861.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-882b5a4daad877e669d3.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
-/pages/contacts/
-  Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </app-aab4cd9a6c0936464999.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </9f51d0540ff428d377f06ef4930cdc7caed260db-578963580b0d75d3e861.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-882b5a4daad877e669d3.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/a-brief-history-of-typography
   Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
   Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
@@ -158,7 +112,18 @@
   Link: </component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/the-birth-of-movable-type
+/pages/about/
+  Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
+  Link: </532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
+  Link: </app-aab4cd9a6c0936464999.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </9f51d0540ff428d377f06ef4930cdc7caed260db-578963580b0d75d3e861.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-882b5a4daad877e669d3.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/the-origins-of-social-stationery-lettering
   Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
   Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
@@ -169,7 +134,30 @@
   Link: </d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/the-birth-of-movable-type/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
+/pages/contacts/
+  Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
+  Link: </532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
+  Link: </app-aab4cd9a6c0936464999.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </9f51d0540ff428d377f06ef4930cdc7caed260db-578963580b0d75d3e861.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-882b5a4daad877e669d3.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/perfecting-the-art-of-perfection
+  Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
+  Link: </532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
+  Link: </app-aab4cd9a6c0936464999.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </9f51d0540ff428d377f06ef4930cdc7caed260db-578963580b0d75d3e861.js>; rel=preload; as=script
+  Link: </d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/humane-typography-in-the-digital-age
   Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
   Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
@@ -182,6 +170,18 @@
   Link: </component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/humane-typography-in-the-digital-age/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/the-birth-of-movable-type
+  Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
+  Link: </532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
+  Link: </app-aab4cd9a6c0936464999.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </9f51d0540ff428d377f06ef4930cdc7caed260db-578963580b0d75d3e861.js>; rel=preload; as=script
+  Link: </d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/the-birth-of-movable-type/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/design
   Link: </webpack-runtime-2412685adde2341ac3a7.js>; rel=preload; as=script
   Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
