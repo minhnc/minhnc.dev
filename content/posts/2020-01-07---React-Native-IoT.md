@@ -1,15 +1,15 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+title: React Native IoT
+date: "2020-07-01T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "humane-typography-in-the-digital-age"
-category: "Typography"
+slug: "react-native-iot"
+category: "React-Native"
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+  - "react-native"
+  - "IoT"
+  - "AWS"
+description: "Overview on how to implement IoT in React Native..."
 socialImage: "/media/42-line-bible.jpg"
 ---
 
