@@ -2,7 +2,7 @@
 title: "React Native Custom Slider"
 date: "2020-08-01T22:12:03.284Z"
 template: "post"
-draft: false
+draft: true
 slug: "react-native-custom-slider"
 category: "React-Native"
 tags:

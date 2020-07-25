@@ -2,7 +2,7 @@
 title: "React Native Payment Integration"
 date: "2020-09-01T22:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "react-native-payment"
 category: "React-Native"
 tags:
